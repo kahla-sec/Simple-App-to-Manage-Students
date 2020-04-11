@@ -1,6 +1,6 @@
 # Simple App to Manage Students #
 Simple Java application to retrieve informations about a student , the client application connects to the Server through sockets and retrieve the informations from the Database, created as school project with my teammates Montassar Amri and Med Ali Zaabi .
-You can check the report HERE .
+You can check the report ![HERE](https://github.com/kahla-sec/Simple-App-to-Manage-Students/blob/master/Rapport.pdf) .
 ## Overview ##
 ![TASK](https://i.imgur.com/76PuJNC.jpg)
 ### Client App ###
