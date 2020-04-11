@@ -20,6 +20,7 @@ Navigate To src folder then type :
 
 After that type :
 > java -cp .:com/Etudiant/frame/lib/AbsoluteLayout.jar com.Etudiant.frame.LoginGUI
+
 **Note** : You need OpenJDK 8 for the client app .
 
 And enjoy managing students :p 
